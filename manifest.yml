@@ -1,0 +1,6 @@
+applications:
+- name: Spring-APP
+path: target/spring-cloud-pcf.jar
+domain: cfapps.io
+memory: 950M
+instances: 1
